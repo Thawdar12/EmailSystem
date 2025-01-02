@@ -1,0 +1,22 @@
+Threshold is: 34
+Anomaly counter for each day:
+Day 1: 50.41 (Anomaly)
+
+Day 2: 45.14 (Anomaly)
+
+Day 3: 55.63 (Anomaly)
+
+Day 4: 46.36 (Anomaly)
+
+Day 5: 53.66 (Anomaly)
+
+Day 6: 48.41 (Anomaly)
+
+Day 7: 37.63 (Anomaly)
+
+Day 8: 39.9 (Anomaly)
+
+Day 9: 27.05 (OK)
+
+Day 10: 70.98 (Anomaly)
+

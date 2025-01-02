@@ -1,0 +1,9 @@
+Total Events: 5
+
+The data format below will be -> Event Name : Mean : Standard Deviation : 
+
+Logins : 5.2 : 0.75 : 
+Time online : 147.4 : 34.71 : 
+Emails sent : 11.4 : 4.72 : 
+Emails opened : 12.2 : 2.79 : 
+Emails deleted : 3.2 : 2.93 : 
